@@ -1,0 +1,41 @@
+body{background-color: greenyellow;}
+
+h1{ 
+    background-color: orange;
+    display: inline-flex;
+color: black;
+}
+a{
+    text-decoration: none;
+    background-color: silver;
+    display: inline-flex;
+    color: black;
+padding: 0% 10px;
+
+}
+
+ul{
+    background-color: orange;
+    color: black;
+
+}
+ol{
+    background-color: orange;
+    color: black;
+}
+h2{
+    background-color: silver;
+    color: black;
+    display: inline-flex;
+}
+
+
+p{
+    background-color: green;
+    color: black;
+    display: inline-flex;
+
+}
+img{
+    width: 500px;
+}
